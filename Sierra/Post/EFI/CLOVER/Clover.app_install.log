@@ -1,0 +1,25 @@
+
+Clover Installer r5104 (v1.1.1), 2020-03-02 01:41:03
+macOS Versão 10.12 (Fase 16A323)
+SELF = /Applications/Clover.app/Contents/MacOS/CloverDaemonNew
+Backup made at:
+/Users/lennoard/Desktop/CloverBackUp/WDC WD10JPCX-24UE4T0 Media/r5104_2020-03-02_01-40-56/EFI.
+Target volume: /Volumes/SYSTEM_DRV
+BSD Name:      disk0s1
+Filesystem:    FAT32
+Is internal:   true
+Is writable:   true
+
+Installing/Updating Clover:
++ ../BOOT/BOOTX64.efi
++ ../CLOVER/CLOVERX64.efi
+
+Installing/Updating drivers:
+
+Installing/Updating tools:
++ ../tools/bdmesg.efi
++ ../tools/Shell32.efi
++ ../tools/Shell64.efi
++ ../tools/Shell64U.efi
+
+Installing/Updating docs:
